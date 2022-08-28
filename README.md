@@ -1,9 +1,10 @@
-# Online-Forever
-Make your Discord Account 24/7 Online!
+# Online-Forever - Streaming edition
+Make your Discord Account 24/7 Online with a custom stream status
+Before anything, please note it's forked from https://github.com/SealedSaucer/Online-Forever and i'm just putting a custom stream status
 
 ----
 
-A code written in Python that helps you to keep your account 24/7 online.
+A code written in Python that helps you to keep your account 24/7 online with a stream status.
 
 The [main.py](https://github.com/SealedSaucer/Online-Forever/blob/main/main.py) is the main file. [keep_alive.py](https://github.com/SealedSaucer/Online-Forever/blob/main/keep_alive.py) prevents your repl from going to sleep. (If you have a replit hacker plan, then you can delete [this file](https://github.com/SealedSaucer/Online-Forever/blob/main/keep_alive.py) and paste this code inside the [main.py](https://github.com/SealedSaucer/Online-Forever/blob/main/main.py) file: 
 

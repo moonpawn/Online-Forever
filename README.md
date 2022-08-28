@@ -1,4 +1,5 @@
 # Online-Forever - Streaming edition
+IN WORK, DOSEN'T WORK RIGHT NOW
 Make your Discord Account 24/7 Online with a custom stream status
 Before anything, please note it's forked from https://github.com/SealedSaucer/Online-Forever and i'm just putting a custom stream status
 
